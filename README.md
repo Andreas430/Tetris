@@ -3,7 +3,7 @@ Perfecting Tetris using Deep Reinforcement Learning.
 
 
 
-This study attempts to crack the game of Tetris using model-free Deep Reinforcement Learning
+<p align="justify">This study attempts to crack the game of Tetris using model-free Deep Reinforcement Learning
 and compares the performance of value-based methods against policy-based methods. In
 this project, we define perfecting the game of Tetris as clearing simultaneously as many lines
 are possible. The main algorithms used are Deep Q-Networks, DQN, and Proximal Policy
@@ -17,4 +17,4 @@ on the big board, clearing less than 10 lines. The value-based methods create an
 behavior and clear lots of single lines to maximize game play time. This results in clearing
 over 2000 lines per episode on the small board and over 10 lines on the big board. Overall,
 this project showcases the difficulties and complications that model-free Deep Reinforcement
-Learning has to face.
+Learning has to face.</p>
