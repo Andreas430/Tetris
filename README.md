@@ -17,4 +17,9 @@ on the big board, clearing less than 10 lines. The value-based methods create an
 behavior and clear lots of single lines to maximize game play time. This results in clearing
 over 2000 lines per episode on the small board and over 10 lines on the big board. Overall,
 this project showcases the difficulties and complications that model-free Deep Reinforcement
-Learning has to face.</p>
+Learning has to face. 
+
+
+<p align="justify"> If you want to replicate the results it is suggested that you use the 8x6 boards since the big Tetris board needs quite the training (3 weeeks for the DQN agent). The code above is set the train the agents using the glipmse version. If you wish to train the agent on any other state represenations (4feat, 12feat, board) please make sure that the NN hyperpaters are changed appropriately and change the mode of the game to version you wish. For any further questions please dont hesitate to email me on antreaskafkalias7@gmail.com  </p>
+
+
