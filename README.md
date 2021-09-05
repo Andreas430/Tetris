@@ -26,7 +26,7 @@ Lets visualize the agents:
 
 PPO on the 8x6 board!
 
-![ppo](https://user-images.githubusercontent.com/72248364/132142545-f40431ba-c89a-4d6d-ba9c-0d1df024b055.gif)
+![ppo](https://user-images.githubusercontent.com/72248364/132142545-f40431ba-c89a-4d6d-ba9c-0d1df024b055.gif =250x250)
 
 
 DQN on the 8x6 board!
@@ -35,9 +35,11 @@ DQN on the 8x6 board!
 
 PPO on the 20x10 board!
 
-![ppo2](https://user-images.githubusercontent.com/72248364/132142632-ac796137-9758-4dba-9529-3066879b6cd7.gif)
 
 DQN on the 20x10 board!
-![dqn2](https://user-images.githubusercontent.com/72248364/132142634-8ba003e3-ccce-42eb-b80c-69775efbc91e.gif)
+
+
+
+
 
 
