@@ -23,3 +23,9 @@ Learning has to face.
 <p align="justify"> If you want to replicate the results it is suggested that you use the 8x6 boards since the big Tetris board needs quite the training (3 weeeks for the DQN agent). The code above is set the train the agents using the glipmse version. If you wish to train the agent on any other state represenations (4feat, 12feat, board) please make sure that the NN hyperpaters are changed appropriately and change the mode of the game to version you wish. For any further questions please dont hesitate to email me on antreaskafkalias7@gmail.com  </p>
 
 
+![ppo](https://user-images.githubusercontent.com/72248364/132142545-f40431ba-c89a-4d6d-ba9c-0d1df024b055.gif)
+
+
+![dqn](https://user-images.githubusercontent.com/72248364/132142550-b42f6332-f706-4c90-b1d3-1612bd6a105a.gif)
+
+
