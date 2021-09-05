@@ -33,4 +33,11 @@ DQN on the 8x6 board!
 
 ![dqn](https://user-images.githubusercontent.com/72248364/132142550-b42f6332-f706-4c90-b1d3-1612bd6a105a.gif)
 
+PPO on the 20x10 board!
+
+![ppo2](https://user-images.githubusercontent.com/72248364/132142632-ac796137-9758-4dba-9529-3066879b6cd7.gif)
+
+DQN on the 20x10 board!
+![dqn2](https://user-images.githubusercontent.com/72248364/132142634-8ba003e3-ccce-42eb-b80c-69775efbc91e.gif)
+
 
