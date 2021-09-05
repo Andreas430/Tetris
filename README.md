@@ -35,6 +35,7 @@ DQN on the 8x6 board!
 
 PPO on the 20x10 board!
 
+![ppocrop_SparkVideo](https://user-images.githubusercontent.com/72248364/132143066-ad9ecfcd-6bd5-41e8-acf7-61102d305c0c.gif)
 
 DQN on the 20x10 board!
 
