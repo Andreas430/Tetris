@@ -40,8 +40,7 @@ PPO on the 20x10 board!
 DQN on the 20x10 board!
 
 
+![Untitled_video_‐_Made_with_Clipchamp__5__SparkVideo](https://user-images.githubusercontent.com/72248364/133300949-f1a294a6-1025-4916-b11d-9313c4e1b9bb.gif)
 
-
-![dqncrop_SparkVideo](https://user-images.githubusercontent.com/72248364/132142862-56de4492-f9eb-4ece-9f53-b2123e059d30.gif)
 
 
